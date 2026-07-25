@@ -7,12 +7,13 @@ I'm a CS student @ UT Dallas. I have experience building **full-stack and AI-pow
 - 🌆 [Exodus](https://github.com/kevinlam404/Exodus) - An AI-powered city exploration platform covering 825+ US cities
 - 💬 [Connectere](https://github.com/kevinlam404/Connectere) - A full-stack real-time community platform
 - 🧠 [Quagmire](https://github.com/kevinlam404/Quagmire) - An AI-powered knowledge graph platform for exploring interconnected concepts
-- Current working on Capital Eye - An AI-native platform that detects fraud-risk patterns, and produces evidence based lead files for human reviewers.
+- 👁️‍🗨️ [Capital Eye] - An AI-native platform that detects fraud-risk patterns in government funding that generates leads for human reviewers. - In Progess
 
-### Machine Learning Projects
+### 🤖 Machine Learning Projects
 
 - [AI Hiring Bias Model](https://github.com/kevinlam404/AI-Hiring-Bias-Model)
-
+- [Car Detection Model(Computer Vision)(https://github.com/kevinlam404/Car-Detection-Model) - In Progress
+👁
 ### I code with
 
 ```
