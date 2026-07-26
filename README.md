@@ -5,7 +5,6 @@ I'm a CS student @ UT Dallas. I have experience building **full-stack and AI-pow
 ### 🛠 Full-Stack Projects
 
 - 🌆 [Exodus](https://github.com/kevinlam404/Exodus) - An AI-powered city exploration platform covering 825+ US cities
-- 💬 [Connectere](https://github.com/kevinlam404/Connectere) - A full-stack real-time community platform
 - 🧠 [Quagmire](https://github.com/kevinlam404/Quagmire) - An AI-powered knowledge graph platform for exploring interconnected concepts
 - 👁️‍🗨️ [Capital Eye] - An AI-native platform that detects fraud-risk patterns in government funding that generates leads for human reviewers. - In Progess
 
