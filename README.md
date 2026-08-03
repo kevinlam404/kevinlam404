@@ -11,7 +11,7 @@ I'm a CS student @ UT Dallas. I have experience building **full-stack and AI-pow
 ### 🤖 Machine Learning Projects
 
 - [AI Hiring Bias Model](https://github.com/kevinlam404/AI-Hiring-Bias-Model)
-- [Car Detection Model](https://github.com/kevinlam404/Car-Detection-Model) - In Progress (Computer Vision)
+- [Tracking System](https://github.com/kevinlam404/TrackingSystem) - In Progress (Computer Vision with PI 5)
 👁
 ### I code with
 
