@@ -6,7 +6,7 @@ I'm a CS student @ UT Dallas. I have experience building **full-stack and AI-pow
 
 - 🌆 [Exodus](https://exodus-explorer.vercel.app) - An AI-powered city exploration platform covering 825+ US cities
 - 🧠 [Quagmire](https://quagmire-beta.vercel.app) - An AI-powered knowledge graph platform for exploring interconnected concepts
-- 👁️‍🗨️ [Capital Eye](https://capital-eye-web.vercel.app) - An AI-native platform that detects fraud-risk patterns in government funding that generates leads for human reviewers. 
+- 👁️‍🗨️ [Capital Eye](https://capital-eye-web.vercel.app) - An AI-native platform that detects anomalies and misuse in government funding and spending 
 
 ### 🤖 Machine Learning Projects
 
